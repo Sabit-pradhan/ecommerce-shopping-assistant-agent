@@ -1,4 +1,4 @@
-# my-sql-agent
+## my-sql-agent
 
 Multi-turn SQL agent chatbot over an e-commerce product catalog, deployed as a
 **Databricks App** (Streamlit), built with **LangGraph**.
